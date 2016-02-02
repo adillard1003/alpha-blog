@@ -24,9 +24,9 @@ $navbar-default-font-color: #fff;
 }
 
 .jumbotron {
-  background-image: image-url("#");
+  background-image: asset-url("sunrise.jpg");
   background-size: cover;
-  height: 550px;
+  height: 700px;
 }
 
 .jumbotron h1 {
